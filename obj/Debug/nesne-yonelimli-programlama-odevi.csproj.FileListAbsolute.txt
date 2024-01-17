@@ -1,0 +1,7 @@
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\bin\Debug\nesne-yonelimli-programlama-odevi.exe.config
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\bin\Debug\nesne-yonelimli-programlama-odevi.exe
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\bin\Debug\nesne-yonelimli-programlama-odevi.pdb
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\obj\Debug\nesne-yonelimli-programlama-odevi.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\obj\Debug\nesne-yonelimli-programlama-odevi.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\obj\Debug\nesne-yonelimli-programlama-odevi.exe
+C:\Users\muham\Desktop\cs-projects\nesne-yonelimli-programlama-odevi\obj\Debug\nesne-yonelimli-programlama-odevi.pdb
